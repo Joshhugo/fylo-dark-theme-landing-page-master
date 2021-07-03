@@ -179,10 +179,7 @@ a.flyo-works {
 .last-flex > div {
 	width: 170px;
 }
-.icon-location {
-	flex-basis: 1px;
-	padding-top: 20px;
-}
+
 .icon-phone,
 .icon-email {
 	padding-right: 10px;
@@ -240,11 +237,6 @@ footer {
 		height: auto;
 		margin: 25px;
 		margin-bottom: 0;
-	}
-
-	.icon-location {
-		display: inline;
-		margin-right: 15px;
 	}
 	.lorem {
 		display: inline-flex;
