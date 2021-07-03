@@ -107,6 +107,7 @@ a.flyo-works {
 	width: 60px;
 	float: left;
 	margin-right: 15px;
+	margin-bottom: 12px;
 }
 .mid-section-3 {
 	margin: 70px;
@@ -126,13 +127,9 @@ a.flyo-works {
 
 .profile-name {
 	font-weight: bold;
-	line-height: 0 px;
 	padding-top: 8px;
 }
-.profile-position {
-	line-height: 0px;
-	margin: 0px;
-}
+
 .get-access {
 	text-align: center;
 	width: 63%;
@@ -295,15 +292,8 @@ footer {
 	}
 }
 @media only screen and (max-width: 560px) {
-	body {
-		font-size: 10px;
-	}
-	.email {
-		font-size: 8px;
-	}
-	button,
 	.get-button {
-		font-size: 9px;
+		font-size: 12px;
 	}
 	.logo {
 		width: 110px;
@@ -327,5 +317,7 @@ footer {
 	}
 	.quotes img {
 		width: 30px;
+	}
+	.profile {
 	}
 }
