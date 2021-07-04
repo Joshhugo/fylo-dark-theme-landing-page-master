@@ -259,6 +259,7 @@ footer {
 	.row-1 > div,
 	.row-2 > div {
 		margin: 50px;
+		width: 40%;
 	}
 	.row-2 {
 		margin-top: 30px;
@@ -314,10 +315,9 @@ footer {
 	.row-1 > div,
 	.row-2 > div {
 		margin: 20px;
+		width: 70%;
 	}
 	.quotes img {
 		width: 30px;
-	}
-	.profile {
 	}
 }
